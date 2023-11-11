@@ -18,7 +18,7 @@ public class EjercicioArraysSeis {
             System.out.println("""
                     ------BIENVENIDOS A NUESTRA AEROLINEA------
                     ******************* Menu ******************
-                    1.- Cargar Base de Asientos
+                    1.- Cargar Base de Asientos:
                     2.- Reservar Asientos:
 
                                     
